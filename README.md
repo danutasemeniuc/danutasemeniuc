@@ -1,6 +1,6 @@
 # 🚀 Salutare, Explorator Digital! 🚀
 
-![Avatar](img/eu.jpg)
+<img src="img/eu.jpg" alt="Avatar" width="300" height="300">
 
 Sunt **Dănuța**, un **developer pasionat de tehnologie** și **proiecte web inovatoare**. Îmi place să îmbin **creativitatea** cu **tehnologia** și să construiesc aplicații și site-uri care sunt atât **funcționale**, cât și **estetic plăcute**. 🚀
 
