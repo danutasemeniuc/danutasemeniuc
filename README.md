@@ -2,7 +2,9 @@
 
 <img src="img/eu.jpg" alt="Avatar" width="300" height="300">
 
-Sunt **Dănuța**, un **developer pasionat de tehnologie** și **proiecte web inovatoare**. Îmi place să îmbin **creativitatea** cu **tehnologia** și să construiesc aplicații și site-uri care sunt atât **funcționale**, cât și **estetic plăcute**. 🚀
+Sunt **Dănuța**, un **developer pasionat de tehnologie** și **proiecte web inovatoare**.
+
+Îmi place să îmbin **creativitatea** cu **tehnologia** și să construiesc aplicații și site-uri care sunt atât **funcționale**, cât și **estetic plăcute**. 🚀
 
 ## 🌍 Ce mă pasionează:
 - **Dezvoltare web** 🌐: Construiesc site-uri care sunt atât rapide, cât și responsive. Îmi place să creez experiențe web fluide și intuitive pentru utilizatori.
